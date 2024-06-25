@@ -30,7 +30,7 @@
 </div>
 </main>
 <aside>
-  <div class="left"><img src="modelface-Shenoy.jpg"" alt="">
+  <div class="left"><img src="Utopia- Shenoy.jpg"" alt="">
     <div class="middle"> <img src= alt=""></div>
     <div class="right"><img src="images/virgin-money-london-marathon_photo-virgin-money-london-marathon_e3f5359893681b9c8b28d224bddd7a14.jpg" alt=""></div>
 </aside>
