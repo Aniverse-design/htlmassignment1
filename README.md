@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -31,8 +31,8 @@
 </main>
 <aside>
   <div class="left"><img src="Utopia- Shenoy.jpg"" alt="">
-    <div class="middle"> <img src= alt=""></div>
-    <div class="right"><img src="images/virgin-money-london-marathon_photo-virgin-money-london-marathon_e3f5359893681b9c8b28d224bddd7a14.jpg" alt=""></div>
+    <div class="middle"> <img src="images/Forgotten Norwegian Castle.jpg" alt="">
+    <div class="right"><img src="images/Everything is Alive - Shenoy.jpg" alt=""></div>
 </aside>
 <footer>  </footer>
 <div>
