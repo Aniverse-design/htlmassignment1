@@ -8,8 +8,8 @@
 <body>
  <div class="Container">
 <header>
-<h1>European Travels</h1>
-<h2> Your destination awaits you</h2>
+<h1>HTLM Assignment 1</h1>
+<h2>Amateur works of Adarsh Shenoy </h2>
 </header>  
 <nav>
 <ul>
@@ -35,3 +35,6 @@
     <div class="right"><img src="images/virgin-money-london-marathon_photo-virgin-money-london-marathon_e3f5359893681b9c8b28d224bddd7a14.jpg" alt=""></div>
 </aside>
 <footer> Insert text here </footer>
+<div>
+</body>
+</html>
