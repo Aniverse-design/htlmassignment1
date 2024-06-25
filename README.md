@@ -26,15 +26,15 @@
 </nav>
 <main>
 <div class="hero">
-<img src="images/London_Thames_Sunset_panorama_-_Feb_2008.jpg" alt="">
+<img src= alt="">
 </div>
 </main>
 <aside>
-  <div class="left"><img src="images/virgin-money-london-marathon_photo-virgin-money-london-marathon_e3f5359893681b9c8b28d224bddd7a14.jpg" alt="">
-    <div class="middle"> <img src="images/virgin-money-london-marathon_photo-virgin-money-london-marathon_e3f5359893681b9c8b28d224bddd7a14.jpg" alt=""></div>
+  <div class="left"><img src="modelface-Shenoy.jpg"" alt="">
+    <div class="middle"> <img src= alt=""></div>
     <div class="right"><img src="images/virgin-money-london-marathon_photo-virgin-money-london-marathon_e3f5359893681b9c8b28d224bddd7a14.jpg" alt=""></div>
 </aside>
-<footer> Insert text here </footer>
+<footer>  </footer>
 <div>
 </body>
 </html>
